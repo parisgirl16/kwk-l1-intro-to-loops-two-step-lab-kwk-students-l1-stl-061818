@@ -6,6 +6,7 @@
   puts "right foot in"
   sleep(0.5)
   puts "stop"
+  sleep (1)
 end
 #loop do
 #  puts "right foot back"
