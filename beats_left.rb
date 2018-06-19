@@ -6,12 +6,12 @@ def dance
       break
     end
   
-  puts "slide to left"
-  sleep(1)
-  puts "slide to right"
-  sleep(1)
-  puts "now kick"
-  sleep(1)
+    puts "slide to left"
+    sleep(1)
+    puts "slide to right"
+    sleep(1)
+    puts "now kick"
+    sleep(1)
   
   beats_left_in_song = beats_left_in_song - 10
   puts "Congratulations! You're done with #{beats_left_in_song}!"
