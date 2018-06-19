@@ -14,7 +14,7 @@ def dance
     sleep(1)
   
   beats_left_in_song = beats_left_in_song - 10
-  puts "Congratulations! You're done with #{beats_left_in_song}!"
+  puts "Congratulations! You have #{beats_left_in_song} beats left in the song!"
 end
 end
 dance
